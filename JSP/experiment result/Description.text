@@ -1,2 +1,4 @@
 The data collcted from experiment and used in the comparative study are stored in this folder
-tour (tornament) contains the results in ablation study
+
+tour_result (tornament) contains the results in ablation study 
+exp_result (experiment) contains the results in validation study
